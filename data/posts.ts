@@ -1,5 +1,15 @@
 export const posts: Array<{ id: string; title: string; description: string; date: string; tags: string[]; category: string[]; image: string; author: string; }> = [
   {
+    id: "1X1",
+    title: "3 Reasons Why You Should Learn Vercel On Your Own",
+    description: "Mollit aute nostrud voluptate amet irure consectetur commodo cupidatat elit. Non ut dolor nulla dolor duis. Anim eiusmod fugiat eiusmod ut nulla nulla labore.",
+    date: "2022-11-09T08:18:10.494Z",
+    tags: ["Photography"],
+    category: ["Photography"],
+    image: "/images/camera.jpg",
+    author: "Jeanne Ballard"
+  },
+  {
     id: "1X2",
     title: "5 Reasons Why You Shouldnt Learn Photography On Your Own",
     description: "Mollit aute nostrud voluptate amet irure consectetur commodo cupidatat elit. Non ut dolor nulla dolor duis. Anim eiusmod fugiat eiusmod ut nulla nulla labore.",
