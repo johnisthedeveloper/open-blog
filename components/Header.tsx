@@ -13,7 +13,7 @@ function Header() {
       <div className="container flex flex-wrap items-center justify-between mx-auto">
 
         <Link href="/" className="flex items-center">
-          <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">OpenBlog</span>
+          <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">水滴博客</span>
         </Link>
 
         <div className="flex md:order-2">
